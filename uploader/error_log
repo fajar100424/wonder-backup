@@ -1,0 +1,106 @@
+[14-Dec-2022 08:13:31 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 08:13:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 08:13:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 10:53:30 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 10:53:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 10:53:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 10:53:42 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 10:53:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 10:53:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:07:09 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:07:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:07:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:08:57 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:08:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:08:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:10:27 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:10:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:10:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:10:29 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:10:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:10:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 599
+[14-Dec-2022 11:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 601
+[14-Dec-2022 11:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 614
+[14-Dec-2022 11:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 616
+[14-Dec-2022 11:25:21 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 599
+[14-Dec-2022 11:25:21 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 601
+[14-Dec-2022 11:25:21 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 614
+[14-Dec-2022 11:25:21 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 616
+[14-Dec-2022 11:32:16 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:32:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:32:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:43:16 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:43:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:43:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 17:04:23 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 17:04:35 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:35 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 17:04:54 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[17-Aug-2024 18:55:10 Asia/Jakarta] PHP Warning:  Undefined variable $ba_miru_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[17-Aug-2024 18:55:10 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[17-Aug-2024 18:55:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[23-Aug-2024 14:17:50 Asia/Jakarta] PHP Warning:  Undefined variable $ba_miru_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[23-Aug-2024 14:17:50 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[23-Aug-2024 14:17:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[23-Aug-2024 14:29:37 Asia/Jakarta] PHP Warning:  Undefined variable $ba_miru_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[23-Aug-2024 14:29:37 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[23-Aug-2024 14:29:37 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:30:26 Asia/Jakarta] PHP Warning:  Undefined variable $ba_miru_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:30:26 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:30:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:33:10 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:33:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:37:40 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:37:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:38:11 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:38:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:40:19 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:40:19 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:40:43 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:40:43 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:42:33 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:42:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:43:40 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:43:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:44:35 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 11:44:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:45:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 11:45:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 1092
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Undefined array key 0 in /home/wond3714/public_html/uploader/include/wonder.php on line 42
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Undefined array key 0 in /home/wond3714/public_html/uploader/include/wonder.php on line 93
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 129
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 129
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 138
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 146
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 159
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 182
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 204
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 207
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 210
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 210
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 213
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 216
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 219
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 222
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 225
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 234
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 237
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 240
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 240
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 243
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 246
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 249
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 254
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 255
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 268
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 378
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 746
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/uploader/include/wonder.php on line 827
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Undefined variable $ba_miru_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951
+[13-Sep-2024 12:49:15 Asia/Jakarta] PHP Warning:  Undefined variable $ba_operation_days in /home/wond3714/public_html/uploader/include/wonder.php on line 951

@@ -1,0 +1,44 @@
+[14-Dec-2022 08:13:31 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 08:13:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 08:13:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 10:53:30 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 10:53:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 10:53:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 10:53:42 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 10:53:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 10:53:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:07:09 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:07:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:07:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:08:57 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:08:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:08:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:10:27 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:10:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:10:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:10:29 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:10:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:10:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 599
+[14-Dec-2022 11:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 601
+[14-Dec-2022 11:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 614
+[14-Dec-2022 11:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 616
+[14-Dec-2022 11:25:21 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 599
+[14-Dec-2022 11:25:21 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 601
+[14-Dec-2022 11:25:21 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 614
+[14-Dec-2022 11:25:21 Asia/Jakarta] PHP Notice:  Undefined variable: pnt in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/job.php on line 616
+[14-Dec-2022 11:32:16 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:32:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:32:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 11:43:16 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:43:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 11:43:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 17:04:23 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 17:04:35 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:35 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825
+[14-Dec-2022 17:04:54 Asia/Jakarta] PHP Notice:  Undefined variable: koneksi in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 823
+[14-Dec-2022 17:04:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rdmittif/sims.rdmittifaqiah.com/sims/dashboard/index.php on line 825

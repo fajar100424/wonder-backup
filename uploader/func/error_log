@@ -1,0 +1,42 @@
+[26-Aug-2024 22:17:13 Asia/Jakarta] PHP Warning:  Undefined array key "total_hari_moving_afe" in /home/wond3714/public_html/dashboard/func/functions.php on line 204
+[13-Sep-2024 11:30:11 Asia/Jakarta] PHP Warning:  Undefined array key "total_hari_moving_afe" in /home/wond3714/public_html/dashboard/func/functions.php on line 204
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "id_wonder" in /home/wond3714/public_html/uploader/func/addberkas.php on line 23
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "item" in /home/wond3714/public_html/uploader/func/addberkas.php on line 24
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "id_user" in /home/wond3714/public_html/dashboard/func/functions.php on line 2137
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "id_wonder" in /home/wond3714/public_html/dashboard/func/functions.php on line 2138
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "item" in /home/wond3714/public_html/dashboard/func/functions.php on line 2139
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "remarks_uploader" in /home/wond3714/public_html/dashboard/func/functions.php on line 2140
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2511
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2511
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2512
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2512
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2513
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2513
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2514
+[13-Sep-2024 12:40:43 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2514
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "id_wonder" in /home/wond3714/public_html/uploader/func/addberkas.php on line 23
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "item" in /home/wond3714/public_html/uploader/func/addberkas.php on line 24
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "id_user" in /home/wond3714/public_html/dashboard/func/functions.php on line 2137
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "id_wonder" in /home/wond3714/public_html/dashboard/func/functions.php on line 2138
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "item" in /home/wond3714/public_html/dashboard/func/functions.php on line 2139
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "remarks_uploader" in /home/wond3714/public_html/dashboard/func/functions.php on line 2140
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2511
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2511
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2512
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2512
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2513
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2513
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2514
+[13-Sep-2024 12:41:52 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2514
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Undefined array key "id_wonder" in /home/wond3714/public_html/uploader/func/addberkasopsi.php on line 23
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Undefined array key "id_wonder" in /home/wond3714/public_html/dashboard/func/functions.php on line 2492
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Undefined array key "jenis_berkas" in /home/wond3714/public_html/dashboard/func/functions.php on line 2493
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Undefined array key "jenis_berkas_lainnya" in /home/wond3714/public_html/dashboard/func/functions.php on line 2494
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2511
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2511
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2512
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2512
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2513
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2513
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Undefined array key "file" in /home/wond3714/public_html/dashboard/func/functions.php on line 2514
+[13-Sep-2024 12:49:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/wond3714/public_html/dashboard/func/functions.php on line 2514
